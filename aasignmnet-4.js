@@ -1,7 +1,7 @@
 
 function interviewCheck(gradScore,hscScore, sscScore, candidateName) {
     var result = gradScore>=70 || hscScore>=80 || sscScore>=90 ?
-    "you are eligible tcs interview :" : "You are not eligible";
+    "you are eligible tcs interview " : "You are not eligible";
     console.log(result);
     
 }

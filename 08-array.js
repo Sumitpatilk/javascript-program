@@ -21,3 +21,4 @@ for (let index = 0; index < arrayList.length; index++) {
         console.log(element); 
     }
 }
+
